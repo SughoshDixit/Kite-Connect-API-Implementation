@@ -8,8 +8,8 @@ Connecting to KiteConnect API
 from kiteconnect import KiteConnect
 import pandas as pd
 
-api_key = "2h2t465lb8dp1ky8"
-api_secret = "3hae21354ab2883pstchnu8d1lxluh85"
+api_key = "API Key"
+api_secret = "Secret Key"
 kite = KiteConnect(api_key=api_key)
 print(kite.login_url()) #use this url to manually login and authorize yourself
 
