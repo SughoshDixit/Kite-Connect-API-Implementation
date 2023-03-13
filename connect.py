@@ -2,8 +2,7 @@
 """
 Zerodha kiteconnect automated authentication
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
-"""
+
 
 from kiteconnect import KiteConnect
 from selenium import webdriver
