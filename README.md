@@ -1,0 +1,31 @@
+# Kite-Connect-API-Implementation
+
+## Overview
+Kite-Connect-API-Implementation is a **Python** project. This repository contains the source code, documentation, and any related assets for the project.
+
+## Intent
+The intention behind this project is to provide a reference implementation, demonstrate Kite-Connect-API-Implementationâ€™s functionality, and serve as a learning or showcase resource.
+
+## Complexity
+Medium
+
+## How to Run
+`
+# Clone the repository
+
+git clone https://github.com/SughoshDixit/Kite-Connect-API-Implementation.git
+
+cd Kite-Connect-API-Implementation
+
+# (optional) create a virtual environment
+python -m venv venv
+
+# Activate and install dependencies
+.\\venv\\Scripts\\activate
+pip install -r requirements.txt
+
+# Run the script
+python main.py
+`
+
+*(If the project uses a different build tool, replace the commands above with the appropriate instructions.)*
